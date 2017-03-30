@@ -1,0 +1,60 @@
+.ui.inverted.header {
+    padding-top: 200px;
+    font-size: 4em;
+    font-weight: normal;
+}
+
+.ui.inverted.header ~ h2 {
+    padding-bottom: 150px;
+}
+
+.ui.text.container {
+    text-align: center;
+}
+
+.cover {
+    background-image: url('/assets/IMG_7382.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.ui.vertical.stripe {
+    padding: 8em 0em;
+}
+
+.ui.vertical.stripe h3 {
+    font-size: 2em;
+}
+
+.ui.card .content a {
+    color: #8e8e8e;
+}
+
+.ui.card .content a:hover .icon.linkedin {
+    color: #0077B5;
+}
+
+.ui.card .content a:hover .icon.viadeo {
+    color: #f07355;
+}
+
+.ui.card .content a:hover .icon.youtube {
+    color: #cc181e;
+}
+
+.ui.card .content a:hover .icon.twitter {
+    color: #00aced;
+}
+
+.ui.card .content a:hover .icon.github {
+    color: black;
+}
+
+.ui.card .content a:hover .icon.flickr {
+    color: #ff0084;
+}
+
+
+.footer.segment {
+    padding: 5em 0em;
+}
